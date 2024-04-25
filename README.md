@@ -10,7 +10,6 @@
             color: #ffffff; 
             font-family: Arial, sans-serif; 
         }
-      
     </style>
 </head>
 <body>

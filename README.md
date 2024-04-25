@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
 <p align="center">
    <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/161209670?s=400&u=b62a14de3fb23a0d550dc6a0f36d4e3a13fd32eb&v=4" alt="png" width="128" height="128"/>
 </p>
@@ -25,7 +27,7 @@
 </div>
 
 <hr>
-
+<body>
 <div align="center">
     <span><b>SOCIAL :</b></span>
 </div>
@@ -66,9 +68,11 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=shadow-red&locale=de">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=holi-theme&locale=de">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=tokyonight">
+   <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=chartreuse-dark">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
+
+</body>

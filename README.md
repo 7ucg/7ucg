@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baron's README</title><style>
-        body {
+body {
             background-color: #1a1a1a; 
             color: #ffffff; 
             font-family: Arial, sans-serif; 
-        }</style>
-</head>
-<body>
+        }
     <p align="center">
        <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/161209670?s=400&u=b62a14de3fb23a0d550dc6a0f36d4e3a13fd32eb&v=4" alt="png" width="128" height="128"/>
     </p>
@@ -68,5 +60,4 @@
        <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=dark&hide_border=false&include_all_commits=true&count_priva">
     </p>
-</body>
-</html>
+

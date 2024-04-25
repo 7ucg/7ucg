@@ -39,15 +39,7 @@
     </a>
 </div>
 
-<hr>
 
-<div align="center">
-    <span><b>TRYHACKME :</b></span>
-</div>
-
-<div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mrg3p5.png" alt="TryHackMe">
-</div>
 
 <hr>
 
@@ -66,18 +58,7 @@
     <img style="border-radius: 25px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
-<hr>
 
-<div align="center">
-    <span><b>CERTIFICATE :</b></span>
-</div>
-
-<div align="center">
-    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_compTIA_pentest.png">
-    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_complete_beginner.png">
-    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_offensive_pentest.jpg">
-    <img width="300px" height="150px" src="https://raw.githubusercontent.com/MrG3P5/MrG3P5/main/cert_pre_security.png">
-</div> 
 
 <hr>
 

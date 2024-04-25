@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrG3P5&theme=dark&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=shadow-red&locale=de">
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
    <br>

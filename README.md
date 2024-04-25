@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baron's README</title>
-    <style>
+    <title>Baron's README</title><style>
         body {
             background-color: #1a1a1a; 
             color: #ffffff; 
             font-family: Arial, sans-serif; 
-        }
-    </style>
+        }</style>
 </head>
 <body>
     <p align="center">

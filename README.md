@@ -68,7 +68,7 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=shadow-red&locale=de">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=7ucg">
+   <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=tokyonight">
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>

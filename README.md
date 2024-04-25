@@ -70,5 +70,5 @@
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=tokyonight">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3P5&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>

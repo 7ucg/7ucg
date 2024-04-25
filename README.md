@@ -16,7 +16,7 @@
 
 <div align="center">
     <div>
-        <span>👋 Hello I'm X -Baron</span>
+        <span>👋 Hello I'm Baron</span>
         <br>
         <span>📌 I'm Live on Germany</span>
         <br>

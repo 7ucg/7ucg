@@ -37,6 +37,9 @@
     <a href="https://wa.me/4365022989060">
         <img style="border-radius: 25px;" src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white">
     </a>
+    <a href="https://instagram.com/6u.cg">
+        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Instagram-%23bc2a8d.svg?logo=Instagram&logoColor=white">
+    </a>
 </div>
 
 

@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/7ucg">
-        <img title="X-MrG3P5" style="border-radius: 25px;" src="https://img.shields.io/badge/X MrG3P5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+        <img title="7ucg" style="border-radius: 25px;" src="https://img.shields.io/badge/X MrG3P5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
     </a>
 </p>
 

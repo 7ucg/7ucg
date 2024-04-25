@@ -1,5 +1,4 @@
- background-color: #1a1a1a;
-    <p align="center">
+ <p align="center">
        <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/161209670?s=400&u=b62a14de3fb23a0d550dc6a0f36d4e3a13fd32eb&v=4" alt="png" width="128" height="128"/>
     </p>
     <p align="center">

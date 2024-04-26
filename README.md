@@ -20,7 +20,7 @@
     <div>
         <span>👋 Hello I'm Baron</span>
         <br>
-        <span>📌 I'm Live on Germany</span>
+        <span>📌 I'm Live in Germany</span>
         <br>
         <span>📌 My Hobbies is Coding </span>
     </div>

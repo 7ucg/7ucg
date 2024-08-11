@@ -1,84 +1,78 @@
-<!-- markdownlint-disable-next-line -->
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+<p align="center">
+   <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/161209670?s=400&u=b62a14de3fb23a0d550dc6a0f36d4e3a13fd32eb&v=4" alt="png" width="128" height="128"/>
+</p>
+
+<p align="center">
+    <a href="https://github.com/7ucg">
+        <img title="7ucg" style="border-radius: 25px;" src="https://img.shields.io/badge/Baron-red?colorA=%23ff0000&colorB=%23ff0000&style=for-the-badge">
+    </a>
+</p>
+
+<hr>
+
 <div align="center">
-
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
-
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=visualstudiocode)][open-container]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=tomato)][gem]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy)][license]&nbsp;
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]
-
-  [**Live Demo** →][demo]
-
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
-
+    <span><b>ABOUT ME :</b></span>
 </div>
 
-## Features
+<div align="center">
+    <div>
+        <span>👋 Hello I'm Baron</span>
+        <br>
+        <span>📌 I'm Live in Germany</span>
+        <br>
+        <span>📌 My Hobbies is Coding </span>
+    </div>
+</div>
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+<hr>
+<body>
+<div align="center">
+    <span><b>SOCIAL :</b></span>
+</div>
 
-## Documentation
+<div align="center">
+    <a href="https://t.me/xyqr0">
+        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Telegram-%23118EEA.svg?logo=Telegram&logoColor=white">
+    </a>
+    <a href="https://wa.me/4365022989060">
+        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white">
+    </a>
+    <a href="https://instagram.com/6u.cg">
+        <img style="border-radius: 25px;" src="https://img.shields.io/badge/Instagram-%23bc2a8d.svg?logo=Instagram&logoColor=white">
+    </a>
+</div>
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
-## Contributing
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
+<hr>
 
-## Credits
+<div align="center">
+    <span><b>LANGUAGE :</b></span>
+</div>
 
-### Contributors
+<div align="center">
+    <img style="border-radius: 25px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img style="border-radius: 25px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img style="border-radius: 25px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black">
+    <img style="border-radius: 25px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black">
+</div>
 
-Thanks to [all the contributors][contributors] involved in the development of the project!
 
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
 
-### Third-Party Assets
+<hr>
 
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
+<p align="center">
+   <b>Github Stats</b>
+</p>
 
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=holi-theme&locale=de">
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=chartreuse-dark">
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_priva">
+</p>
 
-## License
-
-This project is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+</body>

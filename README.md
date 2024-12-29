@@ -1,24 +1,3 @@
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Baron">
-    <meta name="robots" content="archive, follow, imageindex, index, odp, snippet, translate">
-    <meta name="author" content="Baron">
-    <title>Baron</title>
-    <script src="https://kit.fontawesome.com/5367cb78eb.js" crossorigin="anonymous"></script>
-    <meta property="og:site_name" name="og:site_name" content="Tool">
-    <meta property="og:title" name="og:title" content="Barons Website">
-    <meta property="og:url" name="og:url" content="https://7ucg.github.io/7ucg/">
-    <meta property="og:description" name="og:description" content="Profile & Links">
-    <meta property="og:image" content="https://telegra.ph/file/850874518f340f1babf9e.jpg">
-    <link rel="shortcut icon" href="/image/baron.png" />
-    <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="style.css">
-    <link rel="canonical" href="/">
-</head>
 
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>

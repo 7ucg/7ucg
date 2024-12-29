@@ -78,13 +78,18 @@ header {
     text-align: fixed;
   }
 
-
+  html {
+    background: #000000
+   
+}
 
 body {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    transform: scale(0.85); /* 80% der Originalgröße */
+    transform-origin: top middle; /* Ursprung für die Skalierung */
 }
 
 div.text {
@@ -133,7 +138,7 @@ div.text .readdocss {
 }
 
 p {
-    color: rgba(255, 255, 255, .8);
+    color: rgb(255, 255, 255);
     letter-spacing: .15em;
     font-size: 15px !important;
     font-weight: 600;
@@ -141,7 +146,12 @@ p {
 
 a {
     text-decoration: none;
-    color: rgba(255, 255, 255, .5);
+    color: rgb(255, 255, 255);
+}
+
+span {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 
 a.sosmed {

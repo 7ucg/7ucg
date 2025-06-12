@@ -67,7 +67,7 @@
 <p align="center">
    <b>Github Stats</b>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=7ucg&theme=radical)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=7ucg&theme=radical)](https://github-profile-trophy.vercel.app/?username=7ucg&theme=radical)
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=holi-theme&locale=de">
    <br>

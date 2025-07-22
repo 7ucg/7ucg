@@ -9,6 +9,7 @@
     <a href="https://github.com/7ucg">
         <img title="7ucg" style="border-radius: 25px;" src="https://img.shields.io/badge/Baron-red?colorA=%23ff0000&colorB=%23ff0000&style=for-the-badge">
     </a>
+    <img src="https://komarev.com/ghpvc/?username=devorsixcore&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views">
 </p>
 
 <hr>

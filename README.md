@@ -58,8 +58,8 @@
 <br>
 
 <p align="center">
-   <img height="165" src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats">
-   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=radical&hide_border=true&layout=compact" alt="top langs">
+   <img height="165" src="https://github-stats-extended.vercel.app/api?username=7ucg&show_icons=true&theme=monokai&hide_border=true&count_private=true&include_all_commits=true" alt="stats">
+   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=7ucg&langs_count=9&theme=monokai&hide_border=true&layout=compact" alt="top langs">
 </p>
 
 <p align="center">

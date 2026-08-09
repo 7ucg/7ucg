@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <img style="border-radius: 50%;" width="128" height="128" src="https://avatars.githubusercontent.com/u/161209670?s=400&u=b62a14de3fb23a0d550dc6a0f36d4e3a13fd32eb&v=4" alt="Baron"/>
+   <img style="border-radius: 50%;" width="180" height="180" src="https://raw.githubusercontent.com/7ucg/7ucg/main/image/baron_avatar.png" alt="Baron"/>
 </p>
 
 <p align="center">
